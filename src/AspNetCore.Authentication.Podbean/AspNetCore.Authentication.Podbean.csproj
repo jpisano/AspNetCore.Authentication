@@ -14,6 +14,7 @@
 		<RepositoryUrl>https://github.com/jpisano/AspNetCore.Authentication</RepositoryUrl>
 		<RepositoryType>Git</RepositoryType>
 		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+		<Version>1.0.1</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
